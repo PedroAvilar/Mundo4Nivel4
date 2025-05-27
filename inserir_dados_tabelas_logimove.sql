@@ -21,7 +21,7 @@ VALUES
 (103, 1, 3, 'Transporte de alimentos - 120 caixas', '2025-05-13', 'Entregue');
 GO
 
---Vericar dados inseridos
+--Verificar dados inseridos
 --Drivers
 SELECT * FROM Drivers;
 GO
