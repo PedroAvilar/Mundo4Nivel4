@@ -13,7 +13,7 @@ VALUES
 (2, 'Jane White', 'Marcondes e CIA', 'Rua Principal, 678 - SP', '(11) 99999-1111');
 GO
 
---Inserindo Pedidos
+--Inserir Pedidos
 INSERT INTO Orders (OrderID, ClientID, DriverID, DetalhesPedido, DataEntrega, Status)
 VALUES 
 (101, 1, 1, 'Transporte de eletrônicos - 50 caixas', '2025-05-30', 'Aguardando coleta'),
