@@ -33,3 +33,7 @@ GO
 --Conta quantos registros existem na tabela Drivers
 SELECT COUNT(*) FROM Drivers;
 GO
+
+--Excluir a tabela Drivers
+DROP TABLE Drivers;
+GO
